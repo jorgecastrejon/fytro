@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_title">Login</string>
+    <string name="login_user_label">Username</string>
+    <string name="login_user_placeholder">Write your username</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_password_placeholder">Write your password</string>
+    <string name="login_button">Continue</string>
+</resources>

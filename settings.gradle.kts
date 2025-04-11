@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Fytro"
 include(":app")
+include(":features:login")
+include(":foundation:design-system")
